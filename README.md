@@ -1,4 +1,4 @@
-# Galaxy-News
+# TweetTracker - Galaxy News
 Strumento di raccolta e analisi dei tweet di Twitter.
 
 Le funzioni disponibili sono: restituzione di un numero arbitrario di Tweet relativi a una paroa chiave, un hashtag, un luogo o un utente.
